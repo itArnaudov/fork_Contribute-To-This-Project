@@ -1,0 +1,1460 @@
+[
+  {
+    "username": "mathispimpare",
+    "name": "Mathis Pimparé",
+    "contacts": [
+      {
+        "icon": "fab fa-github",
+        "link": "https://www.github.com/mathispimpare",
+        "handle": "Github"
+      },
+      {
+        "icon": "fab fa-linkedin",
+        "link": "https://www.linkedin.com/in/mathispimpare",
+        "handle": "LinkedIn"
+      }
+    ],
+    "about": "Hi, I'm Mathis, a computer science student at Université de Montréal.\nIf you want to check what I'm working on, you have my GitHub and LinkedIn right there !",
+    "resources": [
+      {
+        "title": "Functional programming language",
+        "link": "https://www.haskell.org/",
+        "text": "Haskell"
+      },
+      {
+        "title": "Web development documentation",
+        "link": "https://developer.mozilla.org/",
+        "text": "MDN Web Docs"
+      },
+      {
+        "title": "Common web security risks",
+        "link": "https://owasp.org/www-project-top-ten/",
+        "text": "OWASP Top 10"
+      }
+    ]
+  },
+  {
+    "username": "thomaschant",
+    "name": "Thomas Chant",
+    "contacts": [
+      {
+        "icon": "fab fa-github",
+        "link": "https://www.github.com/ThomasChant",
+        "handle": "ThomasChant"
+      }
+    ],
+    "about": "I build JSON Swiss, an in-browser toolkit for formatting, validating, repairing, and exporting JSON, and Numberblocks\n    Generator, a fan-made browser playground for playing and comparing Numberblocks-style generator versions on\n    numberblocksgenerator.net.",
+    "resources": [
+      {
+        "title": "Convert JSON to table online, review every row faster, and edit data in a clean JSON to Table view. Free, local, and built for readable JSON table workflows.",
+        "link": "https://jsonswiss.com/json-table-editor",
+        "text": "JSON to Table - Convert JSON to Table Online | JSONSwiss"
+      },
+      {
+        "title": "Free online JSON repair tool. Automatically fix missing quotes, trailing commas, bracket mismatches, single quotes, and escape issues. Supports local repair first with AI-assisted deep repair for more complex payloads.",
+        "link": "https://jsonswiss.com/repair",
+        "text": "JSON Repair Tool - Fix Invalid JSON | JSONSwiss"
+      },
+      {
+        "title": "Convert JSON to Excel (XLSX, XLS, CSV) instantly. Features live table preview, nested data flattening, and secure client-side processing for large files.",
+        "link": "https://jsonswiss.com/converter/json-to-excel",
+        "text": "JSON to Excel Converter Online | JSONSwiss"
+      },
+      {
+        "title": "Play multiple Numberblocks Generator versions online including Main Generator, 1 to Infinity, Scratch, and Websim. Free fullscreen playable generator.",
+        "link": "https://numberblocksgenerator.net/",
+        "text": "Numberblocks Generator Online - Play Main, 1 to Infinity & Scratch"
+      },
+      {
+        "title": "Use the Numberblocks Playground to play a fan-made number block generator online, compare versions, and open kid-friendly browser play guidance.",
+        "link": "https://numberblocksgenerator.net/numberblocks-playground",
+        "text": "Numberblocks Playground - Play Number Block Generator Online"
+      }
+    ]
+  },
+  {
+    "username": "7med-1",
+    "name": "7med-1",
+    "contacts": [
+      {
+        "icon": "fab fa-github",
+        "link": "https://www.github.com/7med-1",
+        "handle": "7med-1"
+      }
+    ],
+    "about": "I’m a Data Engineering student from Morocco who enjoys coding and exploring new technologies.",
+    "resources": [
+      {
+        "title": "First Resource",
+        "link": "https://www.freecodecamp.org/",
+        "text": "freecodecamp"
+      },
+      {
+        "title": "Second Resource",
+        "link": "https://www.youtube.com",
+        "text": "Youtube"
+      },
+      {
+        "title": "Third Resource",
+        "link": "https://www.slack.com",
+        "text": "slack"
+      }
+    ]
+  },
+  {
+    "username": "sylvou3947",
+    "name": "sylvou3947",
+    "contacts": [
+      {
+        "icon": "fab fa-github",
+        "link": "https://www.github.com/sylvou3947",
+        "handle": "sylvou3947"
+      }
+    ],
+    "about": "Hey guys! I am a developer from Indonesia. Aspiring to be an amazing UI/UX designer/engineer!",
+    "resources": [
+      {
+        "title": "First Resource",
+        "link": "https://about.readthedocs.com/",
+        "text": "readthedocs.org"
+      },
+      {
+        "title": "Second Resource",
+        "link": "https://developer.mozilla.org/",
+        "text": "MDN Web Docs"
+      },
+      {
+        "title": "Third Resource",
+        "link": "https://www.youtube.com/@syntaxfm",
+        "text": "Syntax YouTube (fun guys!)"
+      }
+    ]
+  },
+  {
+    "username": "summykumari567",
+    "name": "Summy Kumari",
+    "contacts": [
+      {
+        "icon": "fab fa-github",
+        "link": "https://www.github.com/summykumari567",
+        "handle": "summykumari567"
+      }
+    ],
+    "about": "I am a developer from Bihar, India, learning open source contributions and exploring new opportunities.",
+    "resources": [
+      {
+        "title": "Vaibhav Sisinity YouTube",
+        "link": "https://www.youtube.com/@vaibhavsisinty",
+        "text": "Vaibhav Sisinity"
+      },
+      {
+        "title": "GitHub",
+        "link": "https://www.github.com",
+        "text": "GitHub"
+      },
+      {
+        "title": "Naukri",
+        "link": "https://www.naukri.com",
+        "text": "Naukri"
+      }
+    ]
+  },
+  {
+    "username": "paule777",
+    "name": "Paul E.",
+    "contacts": [
+      {
+        "icon": "fab fa-github",
+        "link": "https://github.com/PaulE777",
+        "handle": "PaulE777"
+      }
+    ],
+    "about": "Hello! I am just a guy who's getting back into programming after some years of walking away from it.",
+    "resources": [
+      {
+        "title": "Coding Sloth Channel",
+        "link": "https://www.youtube.com/@TheCodingSloth",
+        "text": "The Coding Sloth"
+      },
+      {
+        "title": "Career path roadmaps",
+        "link": "https://roadmap.sh/",
+        "text": "Developer Roadmaps"
+      },
+      {
+        "title": "GitHub beginner repos",
+        "link": "https://github.com/mungell/awesome-for-beginners",
+        "text": "Awesome first pull request opportunities"
+      }
+    ]
+  },
+  {
+    "username": "gajendrachary",
+    "name": "Gajendrachary",
+    "contacts": [
+      {
+        "icon": "fab fa-github",
+        "link": "https://www.github.com/gajendrachary",
+        "handle": "gajendrachary"
+      }
+    ],
+    "about": "Founder & Full-Stack Developer at DevHorizon Technologies. Building premium digital products with clean engineering and real business value.",
+    "resources": [
+      {
+        "title": "MDN Web Docs",
+        "link": "https://developer.mozilla.org",
+        "text": "MDN Web Docs"
+      },
+      {
+        "title": "GitHub",
+        "link": "https://github.com",
+        "text": "GitHub"
+      },
+      {
+        "title": "CSS Tricks",
+        "link": "https://css-tricks.com",
+        "text": "CSS Tricks"
+      }
+    ]
+  },
+  {
+    "username": "samliaitwork-hub",
+    "name": "Samuel",
+    "contacts": [
+      {
+        "icon": "fa-brands fa-linkedin",
+        "link": "https://github.com/samliaitwork-hub",
+        "handle": "samliaitwork-hub"
+      }
+    ],
+    "about": "Hey! I'm a computer programmer who's learning the ropes of this whole Github thing. Also I like chicken.",
+    "resources": [
+      {
+        "title": "C# in 100 Seconds",
+        "link": "https://youtu.be/ravLFzIguCM",
+        "text": "C# in 100 Seconds"
+      },
+      {
+        "title": "Java Full Course for free",
+        "link": "https://youtu.be/xTtL8E4LzTQ",
+        "text": "Java Full Course for free"
+      },
+      {
+        "title": "Codecademy",
+        "link": "https://www.codecademy.com/learn",
+        "text": "Codecademy"
+      }
+    ]
+  },
+  {
+    "username": "dewanshi-txt",
+    "name": "Dewanshi",
+    "contacts": [
+      {
+        "icon": "fab fa-github",
+        "link": "https://www.github.com/dewanshi-txt",
+        "handle": "dewanshi-txt"
+      }
+    ],
+    "about": "Computer Science student passionate about web development and learning about open source.",
+    "resources": [
+      {
+        "title": "FreeCodeCamp",
+        "link": "https://www.freecodecamp.org/",
+        "text": "Resource 1"
+      },
+      {
+        "title": "LeetCode",
+        "link": "https://leetcode.com/",
+        "text": "Resource 2"
+      },
+      {
+        "title": "GeeksforGeeks",
+        "link": "https://www.geeksforgeeks.org/",
+        "text": "Resource 3"
+      }
+    ]
+  },
+  {
+    "username": "redpyroking",
+    "name": "Redpyro",
+    "contacts": [
+      {
+        "icon": "fab fa-github",
+        "link": "https://github.com/Redpyroking",
+        "handle": "My handle"
+      }
+    ],
+    "about": "This is first pratice. My first contribution",
+    "resources": [
+      {
+        "title": "First Resource",
+        "link": "https://www.youtube.com/watch?v=qnwFpjIqsrA&list=PLSDeUiTMfxW6nMcmZPUG4SgFPAlazWB_S",
+        "text": "Full React Course"
+      },
+      {
+        "title": "Second Resource",
+        "link": "https://www.youtube.com/watch?v=kiPrrtclZOA&list=PLSDeUiTMfxW6nMcmZPUG4SgFPAlazWB_S&index=8",
+        "text": "Full Next.js code"
+      },
+      {
+        "title": "Third Resource",
+        "link": "https://www.youtube.com/watch?v=MIJt9H69QVc",
+        "text": "full Backend Course"
+      }
+    ]
+  },
+  {
+    "username": "snakeeye-sudo",
+    "name": "Sangam Krishna",
+    "contacts": [
+      {
+        "icon": "fab fa-github",
+        "link": "https://www.github.com/SnakeEye-sudo",
+        "handle": "SnakeEye-sudo"
+      }
+    ],
+    "about": "Full-stack developer & AI/ML enthusiast from Bettiah, Bihar, India. Building open-source projects and contributing to the dev community. Currently working on AI Guardian and various web applications.",
+    "resources": [
+      {
+        "title": "Developer Roadmaps",
+        "link": "https://roadmap.sh",
+        "text": "roadmap.sh"
+      },
+      {
+        "title": "Modern JavaScript Tutorial",
+        "link": "https://javascript.info",
+        "text": "javascript.info"
+      },
+      {
+        "title": "GitHub Copilot Docs",
+        "link": "https://docs.github.com/en/copilot",
+        "text": "GitHub Copilot Docs"
+      }
+    ]
+  },
+  {
+    "username": "harverysappa",
+    "name": "Harverysappa",
+    "contacts": [
+      {
+        "icon": "fab fa-github",
+        "link": "https://www.github.com/Harverysappa",
+        "handle": "Harverysappa"
+      }
+    ],
+    "about": "Software Engineer learning how to make contributions to GitHub.",
+    "resources": [
+      {
+        "title": "First Resource",
+        "link": "https://example.com/resource1",
+        "text": "Resource 1"
+      },
+      {
+        "title": "Second Resource",
+        "link": "https://example.com/resource2",
+        "text": "Resource 2"
+      },
+      {
+        "title": "Third Resource",
+        "link": "https://example.com/resource3",
+        "text": "Resource 3"
+      }
+    ]
+  },
+  {
+    "username": "phuck40clnq",
+    "name": "Phuc",
+    "contacts": [
+      {
+        "icon": "fab fa-github",
+        "link": "https://www.github.com/phuck40clnq",
+        "handle": "phuck40clnq"
+      }
+    ],
+    "about": "Hi, I'm a computer science student. Glad to join the community!",
+    "resources": [
+      {
+        "title": "W3Schools Online Web Tutorials",
+        "link": "https://www.w3schools.com",
+        "text": "W3Schools"
+      },
+      {
+        "title": "MDN Web Docs",
+        "link": "https://developer.mozilla.org",
+        "text": "MDN Web Docs"
+      },
+      {
+        "title": "Stack Overflow",
+        "link": "https://stackoverflow.com",
+        "text": "Stack Overflow"
+      }
+    ]
+  },
+  {
+    "username": "siborne",
+    "name": "Siborne",
+    "contacts": [
+      {
+        "icon": "fab fa-github",
+        "link": "https://www.github.com/Siborne",
+        "handle": "Siborne"
+      }
+    ],
+    "about": "我是 Siborne，GitHub 名字也同样是 Siborne。我喜欢通过动手实践来学习 Git 和 GitHub。",
+    "resources": [
+      {
+        "title": "GitHub Docs",
+        "link": "https://docs.github.com/",
+        "text": "GitHub Docs"
+      },
+      {
+        "title": "MDN Web Docs",
+        "link": "https://developer.mozilla.org/",
+        "text": "MDN Web Docs"
+      },
+      {
+        "title": "Stack Overflow",
+        "link": "https://stackoverflow.com/",
+        "text": "Stack Overflow"
+      }
+    ]
+  },
+  {
+    "username": "dor11126",
+    "name": "Dor Cohen",
+    "contacts": [
+      {
+        "icon": "fab fa-github",
+        "link": "https://github.com/Dor11126",
+        "handle": ""
+      }
+    ],
+    "about": "Passionate about engineering, problem-solving and open-source",
+    "resources": []
+  },
+  {
+    "username": "erickyy29",
+    "name": "Eric Liang",
+    "contacts": [
+      {
+        "icon": "fab fa-github",
+        "link": "https://www.github.com/erickyy29",
+        "handle": "erickyy29"
+      },
+      {
+        "icon": "fas fa-globe",
+        "link": "https://lowkeyagency.ca",
+        "handle": "Lowkey Agency"
+      }
+    ],
+    "about": "Founder of Lowkey Agency — AI automation & growth infrastructure for B2B operators, and a finance content creator.",
+    "resources": [
+      {
+        "title": "MDN Web Docs",
+        "link": "https://developer.mozilla.org",
+        "text": "MDN Web Docs"
+      },
+      {
+        "title": "n8n Automation Docs",
+        "link": "https://docs.n8n.io",
+        "text": "n8n Automation Docs"
+      },
+      {
+        "title": "OpenAI API Docs",
+        "link": "https://platform.openai.com/docs",
+        "text": "OpenAI API Docs"
+      }
+    ]
+  },
+  {
+    "username": "avamshika",
+    "name": "Aelpula Vamshika",
+    "contacts": [
+      {
+        "icon": "fab fa-github",
+        "link": "https://github.com/Avamshika",
+        "handle": "Avamshika"
+      }
+    ],
+    "about": "B.Tech student passionate about Full Stack Development, Open Source, AI, and building practical software projects. Currently learning JavaScript and contributing to open source.",
+    "resources": [
+      {
+        "title": "MDN",
+        "link": "https://developer.mozilla.org/",
+        "text": "MDN Web Docs"
+      },
+      {
+        "title": "freeCodeCamp",
+        "link": "https://www.freecodecamp.org/",
+        "text": "freeCodeCamp"
+      },
+      {
+        "title": "GeeksforGeeks",
+        "link": "https://www.geeksforgeeks.org/",
+        "text": "GeeksforGeeks"
+      }
+    ]
+  },
+  {
+    "username": "dean-8",
+    "name": "Dean Potishman",
+    "contacts": [
+      {
+        "icon": "fab fa-github",
+        "link": "https://www.github.com/dean-8",
+        "handle": "dean-8"
+      },
+      {
+        "icon": "fa-sharp fa-solid fa-address-book",
+        "link": "https://devdean.co.uk",
+        "handle": "Portfolio Site"
+      },
+      {
+        "icon": "fa-brands fa-linkedin",
+        "link": "https://www.linkedin.com/in/dean-potishman-7523823a0/?skipRedirect=true",
+        "handle": "Dean Potishman"
+      }
+    ],
+    "about": "English Computer Science student, trying to understand how to use github (not going well)",
+    "resources": [
+      {
+        "title": "current go to method of learning code",
+        "link": "https://www.w3schools.com/",
+        "text": "W3Schools"
+      },
+      {
+        "title": "Great website for difficult coding problem solving",
+        "link": "https://projecteuler.net/archives",
+        "text": "Project Euler - Porblem archives"
+      },
+      {
+        "title": "The best.",
+        "link": "https://claude.ai/",
+        "text": "Claude"
+      }
+    ]
+  },
+  {
+    "username": "truongandevops",
+    "name": "TruongAnDev",
+    "contacts": [
+      {
+        "icon": "fab fa-github",
+        "link": "https://www.github.com/truonganDevOps",
+        "handle": "truonganDevOps"
+      }
+    ],
+    "about": "Full Stack Developer who loves building web apps and contributing to open source.",
+    "resources": [
+      {
+        "title": "MDN Web Docs",
+        "link": "https://developer.mozilla.org",
+        "text": "MDN Web Docs"
+      },
+      {
+        "title": "Awesome Lists",
+        "link": "https://github.com/sindresorhus/awesome",
+        "text": "Awesome Lists"
+      },
+      {
+        "title": "Developer Roadmaps",
+        "link": "https://roadmap.sh",
+        "text": "Developer Roadmaps"
+      }
+    ]
+  },
+  {
+    "username": "gauravbuildz",
+    "name": "Gaurav Kumar",
+    "contacts": [
+      {
+        "icon": "fab fa-github",
+        "link": "https://github.com/gauravbuildz",
+        "handle": "gauravbuildz"
+      }
+    ],
+    "about": "B.Tech CSE student passionate about DSA, AI/ML, Web Development, and Open Source. Currently learning problem solving and building projects to strengthen my development skills.",
+    "resources": [
+      {
+        "title": "Developer Roadmaps",
+        "link": "https://roadmap.sh",
+        "text": "roadmap.sh"
+      },
+      {
+        "title": "MDN Web Docs",
+        "link": "https://developer.mozilla.org",
+        "text": "MDN Web Docs"
+      },
+      {
+        "title": "First Contributions",
+        "link": "https://github.com/firstcontributions/first-contributions",
+        "text": "First Contributions"
+      }
+    ]
+  },
+  {
+    "username": "javed-ak",
+    "name": "Javed Akhtar",
+    "contacts": [
+      {
+        "icon": "fab fa-github",
+        "link": "https://www.github.com/javed-ak",
+        "handle": "javed-ak"
+      }
+    ],
+    "about": "Hii everyone, I'm Javed a upcoming best full stack developer. This is my starting point where I'm learning and in future I'll become a great developer. I belive in myself and I'm loyal towords my work. This is one of my initial PR. That's all about me. Thank you",
+    "resources": [
+      {
+        "title": "YouTube",
+        "link": "https://youtube.com",
+        "text": "YouTube"
+      },
+      {
+        "title": "W3Schools Online Web Tutorials",
+        "link": "https://www.w3schools.com",
+        "text": "W3Schools"
+      },
+      {
+        "title": "Where Future Tech Leaders Are Built",
+        "link": "https://100xschool.in",
+        "text": "100xSchool"
+      }
+    ]
+  },
+  {
+    "username": "gopisaroja",
+    "name": "Gopisaroja",
+    "contacts": [
+      {
+        "icon": "fab fa-github",
+        "link": "https://www.github.com/Gopisaroja",
+        "handle": "Gopisaroja"
+      }
+    ],
+    "about": "First year computer science and engineering students interested in web development and open source contribution.",
+    "resources": [
+      {
+        "title": "w3schools",
+        "link": "https://www.w3schools.com",
+        "text": "Resource 1"
+      },
+      {
+        "title": "TakeUForward",
+        "link": "https://takeuforward.org/strivers-a2z-dsa-course/",
+        "text": "Resource 2"
+      },
+      {
+        "title": "Github",
+        "link": "https://github.com",
+        "text": "Resource 3"
+      }
+    ]
+  },
+  {
+    "username": "okbatti",
+    "name": "Owais Batti",
+    "contacts": [
+      {
+        "icon": "fab fa-github",
+        "link": "https://www.github.com/Okbatti",
+        "handle": "Okbatti"
+      },
+      {
+        "icon": "fab fa-linkedin",
+        "link": "https://www.linkedin.com/in/owais-ali-khadim-batti-2278831a1/",
+        "handle": "Owais Batti"
+      },
+      {
+        "icon": "fab fa-x-twitter",
+        "link": "https://x.com/OwaisBatti",
+        "handle": "OwaisBatti"
+      }
+    ],
+    "about": "First-time open-source contributor learning Git, GitHub, and web dev one commit at a time.",
+    "resources": [
+      {
+        "title": "Linkedin reference",
+        "link": "https://www.linkedin.com/in/owais-ali-khadim-batti-2278831a1/",
+        "text": "Linkedin Profile"
+      },
+      {
+        "title": "twitter/X reference",
+        "link": "https://x.com/OwaisBatti",
+        "text": "twitter/X Profile"
+      },
+      {
+        "title": "GitHub reference",
+        "link": "https://github.com/Okbatti",
+        "text": "GitHub Profile"
+      }
+    ]
+  },
+  {
+    "username": "mohdkaifshaikh",
+    "name": "Mohammad Kaif Shaikh",
+    "contacts": [
+      {
+        "icon": "fab fa-github",
+        "link": "https://www.github.com/mohdkaifshaikh",
+        "handle": "mohdkaifshaikh"
+      }
+    ],
+    "about": "i'm Kaif,a software developer passionate about backend engineering and open source development.",
+    "resources": [
+      {
+        "title": "First Resource",
+        "link": "https://github.com/hagopj13/node-express-boilerplate",
+        "text": "full project boiler plate"
+      },
+      {
+        "title": "Second Resource",
+        "link": "https://github.com/Syknapse/Contribute-To-This-Project",
+        "text": "for first contribution"
+      },
+      {
+        "title": "Third Resource",
+        "link": "https://www.udemy.com",
+        "text": "udemy All learning resources is here"
+      }
+    ]
+  },
+  {
+    "username": "kylenngu135",
+    "name": "Kylen Nguyen",
+    "contacts": [
+      {
+        "icon": "fab fa-github",
+        "link": "https://www.github.com/kylenngu135",
+        "handle": "My Github"
+      }
+    ],
+    "about": "I like playing video games, programming and learning new things.",
+    "resources": [
+      {
+        "title": "A roadmap for full-stack developers",
+        "link": "https://roadmap.sh/full-stack",
+        "text": "FullStack Developer Roadmap"
+      },
+      {
+        "title": "A young SWE influencer in Canada",
+        "link": "https://www.youtube.com/@SWErikCodes",
+        "text": "SWErikCodes"
+      },
+      {
+        "title": "A youtube channel that covers current events in the tech world",
+        "link": "https://www.youtube.com/@Fireship",
+        "text": "Fireship"
+      }
+    ]
+  },
+  {
+    "username": "khangnguyen04work-program",
+    "name": "Khang Nguyen",
+    "contacts": [
+      {
+        "icon": "fab fa-github",
+        "link": "https://github.com/khangnguyen04work-program",
+        "handle": "My GitHub"
+      },
+      {
+        "icon": "fa-brands fa-square-linkedin",
+        "link": "https://tinyurl.com/4snbtmbk",
+        "handle": "My LinkedIn"
+      },
+      {
+        "icon": "fa-brands fa-instagram",
+        "link": "https://www.instagram.com/kh9ng_/",
+        "handle": "My Insta"
+      }
+    ],
+    "about": "My name is Khang. I love exploring open sources and contributing to coding projects.",
+    "resources": [
+      {
+        "title": "First Resource",
+        "link": "https://www.youtube.com/watch?v=pJYOG6klqj8&list=PLcousIYQw17I",
+        "text": "GitHub Guide"
+      },
+      {
+        "title": "Second Resource",
+        "link": "https://www.youtube.com/watch?v=vA5TTz6BXhY&list=PLcousIYQw17I&index=2",
+        "text": "Git & GitHub Crash Course 2025"
+      },
+      {
+        "title": "Third Resource",
+        "link": "https://www.youtube.com/watch?v=JJmcL1N2KQs&t=1392s",
+        "text": "Python Crash"
+      }
+    ]
+  },
+  {
+    "username": "snakeeaters",
+    "name": "SnakeEaterS",
+    "contacts": [
+      {
+        "icon": "fab fa-github",
+        "link": "https://github.com/SnakeEaterS",
+        "handle": "Your handle"
+      }
+    ],
+    "about": "I am a student trying to learn about contributions on Github and hopefully to jumpstart contributing on the platform.",
+    "resources": [
+      {
+        "title": "Game/CG developer website for free starting textures.",
+        "link": "https://ambientcg.com/",
+        "text": "Resource 1"
+      },
+      {
+        "title": "A nice little world map generator.",
+        "link": "https://azgaar.github.io/Fantasy-Map-Generator/",
+        "text": "Resource 2"
+      },
+      {
+        "title": "Image to pixel art repo.",
+        "link": "https://github.com/sedthh/pyxelate",
+        "text": "Resource 3"
+      }
+    ]
+  },
+  {
+    "username": "gaurav31052",
+    "name": "Gaurav",
+    "contacts": [
+      {
+        "icon": "fab fa-github",
+        "link": "https://github.com/Gaurav31052",
+        "handle": "GitHub"
+      }
+    ],
+    "about": "Full Stack Developer | MERN Developer | Software Engineer | React.js | Node.js | Java | WordPress & WooCommerce | SQL | Software developer | DSA | REST APIs | MongoDB | Express.js",
+    "resources": [
+      {
+        "title": "Swaadlo a dryfruit and Spices Brand",
+        "link": "https://swaadlo.com/",
+        "text": "It is a wordpress website which is developed and deployed by Me."
+      },
+      {
+        "title": "RevoPix",
+        "link": "https://revopix.onrender.com/",
+        "text": "An AI Generated Image and Image backgroud Remover developed using MERN Stack"
+      },
+      {
+        "title": "Portfolio",
+        "link": "https://portfolio-gaurav-kumar.netlify.app/",
+        "text": "This is my portfolio"
+      }
+    ]
+  },
+  {
+    "username": "amhansonn",
+    "name": "AMHansonn",
+    "contacts": [
+      {
+        "icon": "fab fa-linkedin",
+        "link": "https://www.linkedin.com/in/amhansonn",
+        "handle": "LinkedIn"
+      },
+      {
+        "icon": "fab fa-github",
+        "link": "https://github.com/AMHansonn",
+        "handle": "GitHub"
+      }
+    ],
+    "about": "I am an undergraduate student at East Carolina University majoring in psychology, neuroscience, and chemistry. I am an aspiring physician-scientist, but I want to bridge the gap between biomedical research and computer science.",
+    "resources": [
+      {
+        "title": "First Resource",
+        "link": "https://www.freecodecamp.org",
+        "text": "freeCodeCamp"
+      },
+      {
+        "title": "Second Resource",
+        "link": "https://www.w3schools.com",
+        "text": "W3Schools"
+      },
+      {
+        "title": "Third Resource",
+        "link": "https://www.code.org",
+        "text": "Code.org (Now called CodeAI.)"
+      }
+    ]
+  },
+  {
+    "username": "lu-86",
+    "name": "Luciano",
+    "contacts": [
+      {
+        "icon": "fab fa-github",
+        "link": "https://www.github.com/Lu-86",
+        "handle": "Your handle"
+      }
+    ],
+    "about": "Hi, im an college student from argentina. im very exited to start my journed in development and open\n    source. i like videogames and cars",
+    "resources": [
+      {
+        "title": "buttons generator",
+        "link": "https://markodenic.com/tools/buttons-generator/",
+        "text": "markodenic"
+      },
+      {
+        "title": "websites inspirations",
+        "link": "https://websitevice.com/",
+        "text": "websitevice"
+      },
+      {
+        "title": "coding challenges",
+        "link": "https://www.hackerrank.com/",
+        "text": "hackerrank"
+      }
+    ]
+  },
+  {
+    "username": "sabaawais",
+    "name": "Saba Awais",
+    "contacts": [
+      {
+        "icon": "fab fa-github",
+        "link": "https://www.github.com/SabaAwais",
+        "handle": "SabaAwais"
+      }
+    ],
+    "about": "Write a sentence or two about yourself.",
+    "resources": [
+      {
+        "title": "First Resource",
+        "link": "https://up-for-grabs.net/#/",
+        "text": "Resource 1"
+      }
+    ]
+  },
+  {
+    "username": "slikhithreddy22",
+    "name": "slikhithreddy22",
+    "contacts": [
+      {
+        "icon": "fab fa-github",
+        "link": "https://github.com/slikhithreddy22/",
+        "handle": "Your handle"
+      }
+    ],
+    "about": "I am UG CS student who loves to contribute to opensource.",
+    "resources": [
+      {
+        "title": "First Resource",
+        "link": "https://github.com/slikhithreddy22",
+        "text": "github"
+      },
+      {
+        "title": "Second Resource",
+        "link": "https://www.linkedin.com/in/likhithreddys/",
+        "text": "linkedin"
+      },
+      {
+        "title": "Third Resource",
+        "link": "https://leetcode.com/u/theachyut/",
+        "text": "leetcode"
+      }
+    ]
+  },
+  {
+    "username": "kabirmaske",
+    "name": "Kabir Maske",
+    "contacts": [
+      {
+        "link": "https://github.com/kabirmaske",
+        "handle": "GitHub"
+      }
+    ],
+    "about": "Just a developer out here chasing those green contribution squares on GitHub. Learning Git, building cool things, and making my first open-source steps!",
+    "resources": []
+  },
+  {
+    "username": "riday-kumar",
+    "name": "Riday Kumar",
+    "contacts": [
+      {
+        "icon": "fab fa-github",
+        "link": "https://github.com/riday-kumar",
+        "handle": "Riday Kumar"
+      }
+    ],
+    "about": "I am a web developer. I want to explore new technologies and build useful applications.",
+    "resources": [
+      {
+        "title": "w3schools",
+        "link": "https://www.w3schools.com/html/",
+        "text": "w3schools HTML"
+      }
+    ]
+  },
+  {
+    "username": "marilioalmeida",
+    "name": "Marilio Almeida",
+    "contacts": [
+      {
+        "icon": "fab fa-github",
+        "link": "https://github.com/marilioalmeida",
+        "handle": "Marilio Almeida"
+      }
+    ],
+    "about": "I'm a software developer. I keep a public study blog about .NET and backend topics, where I write down what I learn.",
+    "resources": [
+      {
+        "title": "Study blog",
+        "link": "https://www.marilioalmeida.com",
+        "text": "My study blog (EN/PT)"
+      }
+    ]
+  },
+  {
+    "username": "vigneshwar-bala",
+    "name": "Vigneshwar Balakumar",
+    "contacts": [
+      {
+        "icon": "fab fa-github",
+        "link": "https://github.com/Vigneshwar-bala",
+        "handle": "Vigneshwar-bala"
+      }
+    ],
+    "about": "A dev with creativity who loves building clean and useful web experiences.",
+    "resources": [
+      {
+        "title": "MDN Web Docs",
+        "link": "https://developer.mozilla.org",
+        "text": "MDN Web Docs"
+      },
+      {
+        "title": "CSS-Tricks",
+        "link": "https://css-tricks.com",
+        "text": "CSS-Tricks"
+      },
+      {
+        "title": "GitHub Trending",
+        "link": "https://github.com/trending",
+        "text": "GitHub Trending"
+      }
+    ]
+  },
+  {
+    "username": "rakeshplvl-ops",
+    "name": "Rakesh",
+    "contacts": [
+      {
+        "icon": "fab fa-github",
+        "link": "https://github.com/rakeshplvl-ops",
+        "handle": "rakeshplvl-ops"
+      }
+    ],
+    "about": "I'm a Full .Net Stack Developer. I love to create, develop and contribute to impactful projects. I use React.js for the frontend as it offers better UI and support throughout the coding journey.",
+    "resources": [
+      {
+        "title": "First Resource",
+        "link": "https://github.com",
+        "text": "^Github"
+      },
+      {
+        "title": "Second Resource",
+        "link": "https://www.hackerrank.com/",
+        "text": "$HackerRank 2"
+      },
+      {
+        "title": "Third Resource",
+        "link": "https://leetcode.com/problemset/",
+        "text": "#leetcode"
+      }
+    ]
+  },
+  {
+    "username": "kamilyvtr",
+    "name": "Kamily Vitória",
+    "contacts": [
+      {
+        "icon": "fab fa-github",
+        "link": "https://www.github.com/kamilyvtr",
+        "handle": "kamilyvtr"
+      }
+    ],
+    "about": "Front-end developer em formação, apaixonada por interfaces e experiência do usuário.",
+    "resources": [
+      {
+        "title": "MDN Web Docs - Referência completa de desenvolvimento web",
+        "link": "https://developer.mozilla.org/pt-BR/",
+        "text": "MDN Web Docs"
+      },
+      {
+        "title": "Frontend Mentor - Desafios práticos de código",
+        "link": "https://www.frontendmentor.io/",
+        "text": "Frontend Mentor"
+      },
+      {
+        "title": "CSS Tricks - Tutoriais e dicas de CSS",
+        "link": "https://css-tricks.com/",
+        "text": "CSS Tricks"
+      }
+    ]
+  },
+  {
+    "username": "anisherdev",
+    "name": "S A Herdev Anish",
+    "contacts": [
+      {
+        "icon": "fab fa-github",
+        "link": "https://github.com/AnisHerdev",
+        "handle": "anisherdev"
+      },
+      {
+        "icon": "fas fa-house-user",
+        "link": "https://herdev-portfolio.vercel.app/#home",
+        "handle": "Portfolio"
+      }
+    ],
+    "about": "I'm an engineer who solves problems by building - always exploring AI/ML, data, and UI/UX, with an eye for the subtle details that make or break an experience. I put in real effort and leave nothing on the table, because I never want to wonder \"what if.\" Currently building apps that make life easier for college students - including Quire, live on Windows and coming soon to Android.",
+    "resources": [
+      {
+        "title": "First Resource",
+        "link": "https://www.youtube.com/",
+        "text": "Youtube"
+      },
+      {
+        "title": "Second Resource",
+        "link": "https://www.freecodecamp.org/",
+        "text": "freecodecamp"
+      },
+      {
+        "title": "Third Resource",
+        "link": "https://www.youtube.com/@ApnaCollegeOfficial",
+        "text": "Apna College"
+      }
+    ]
+  },
+  {
+    "username": "agrawalpraveen12",
+    "name": "Praveen Agrawal",
+    "contacts": [
+      {
+        "icon": "fab fa-github",
+        "link": "https://github.com/agrawalpraveen12",
+        "handle": "agrawalpraveen12"
+      }
+    ],
+    "about": "AI Engineer building production-grade GenAI systems — multi-agent orchestration with LangGraph, hybrid RAG pipelines, LoRA fine-tuning, and scalable FastAPI backends. M.Sc. Data Science @ IIIT Lucknow.",
+    "resources": [
+      {
+        "title": "First Resource",
+        "link": "https://github.com/agrawalpraveen12",
+        "text": "^GitHub Portfolio"
+      },
+      {
+        "title": "Second Resource",
+        "link": "https://python.langchain.com/docs/introduction/",
+        "text": "$LangChain Docs"
+      },
+      {
+        "title": "Third Resource",
+        "link": "https://huggingface.co/docs",
+        "text": "#HuggingFace Docs"
+      }
+    ]
+  },
+  {
+    "username": "lisalasuger",
+    "name": "SALA-LI",
+    "contacts": [
+      {
+        "icon": "fab fa-github",
+        "link": "https://github.com/SALA-LI",
+        "handle": "SALA-LI"
+      }
+    ],
+    "about": "北国风光，千里冰封，万里雪飘。",
+    "resources": [
+      {
+        "title": "Web documentation",
+        "link": "https://developer.mozilla.org/",
+        "text": "MDN Web Docs"
+      },
+      {
+        "title": "Free coding lessons",
+        "link": "https://www.freecodecamp.org/",
+        "text": "freeCodeCamp"
+      },
+      {
+        "title": "CSS tips and tricks",
+        "link": "https://css-tricks.com/",
+        "text": "CSS-Tricks"
+      }
+    ]
+  },
+  {
+    "username": "anikeshroyy",
+    "name": "Anikesh Roy",
+    "contacts": [
+      {
+        "icon": "fab fa-github",
+        "link": "https://www.github.com/anikeshroyy",
+        "handle": "Github"
+      }
+    ],
+    "about": "MERN Stack Developer and Computer Science student passionate about building modern, responsive web\n        applications. I enjoy open-source, solving real-world problems, and continuously learning new technologies.",
+    "resources": [
+      {
+        "title": "MDN Web Docs",
+        "link": "https://developer.mozilla.org/",
+        "text": "MDN Web Docs"
+      },
+      {
+        "title": "React Documentation",
+        "link": "https://react.dev/",
+        "text": "React Documentation"
+      },
+      {
+        "title": "JavaScript.info",
+        "link": "https://javascript.info/",
+        "text": "JavaScript.info"
+      }
+    ]
+  },
+  {
+    "username": "jihad011",
+    "name": "Md.Jihad Hossain",
+    "contacts": [
+      {
+        "icon": "fab fa-github",
+        "link": "https://github.com/Jihad011",
+        "handle": "Jihad011"
+      }
+    ],
+    "about": "Software Engineer passionate about System Design.",
+    "resources": [
+      {
+        "title": "System Design Primer",
+        "link": "https://github.com/donnemartin/system-design-primer",
+        "text": "System Design Primer"
+      },
+      {
+        "title": "React Documentation",
+        "link": "https://react.dev/",
+        "text": "React Docs"
+      },
+      {
+        "title": "First Contributions",
+        "link": "https://github.com/firstcontributions/first-contributions",
+        "text": "First Contributions"
+      }
+    ]
+  },
+  {
+    "username": "kesleydavid",
+    "name": "Kesley David",
+    "contacts": [
+      {
+        "icon": "fab fa-github",
+        "link": "https://github.com/KesleyDavid",
+        "handle": "KesleyDavid"
+      },
+      {
+        "icon": "fab fa-x-twitter",
+        "link": "https://x.com/kesleydev",
+        "handle": "kesleydev"
+      },
+      {
+        "icon": "fas fa-globe",
+        "link": "https://kesley.dev",
+        "handle": "kesley.dev"
+      }
+    ],
+    "about": "Full Stack Developer working with Next.js, Node.js, React Native and TypeScript. Building tools and learning in public.",
+    "resources": [
+      {
+        "title": "MDN Web Docs",
+        "link": "https://developer.mozilla.org/",
+        "text": "MDN Web Docs"
+      },
+      {
+        "title": "React official documentation",
+        "link": "https://react.dev/",
+        "text": "React Docs"
+      },
+      {
+        "title": "TypeScript Handbook",
+        "link": "https://www.typescriptlang.org/docs/",
+        "text": "TypeScript Handbook"
+      }
+    ]
+  },
+  {
+    "username": "flyzuzii",
+    "name": "Fluzyyx",
+    "contacts": [
+      {
+        "icon": "fab fa-github",
+        "link": "https://www.github.com/Flyzuzii",
+        "handle": "Flyzuzii"
+      },
+      {
+        "icon": "fas fa-globe",
+        "link": "https://fauzi-portfolio-ruby.vercel.app/#reviews",
+        "handle": "Portfolio"
+      }
+    ],
+    "about": "Full Stack Web Developer specializing in building scalable applications. Passionate about modern technologies, clean code, and open source contributions. Always learning and exploring new frameworks.",
+    "resources": [
+      {
+        "title": "MDN Web Docs",
+        "link": "https://developer.mozilla.org/en-US/docs/Web/",
+        "text": "MDN Web Docs - Comprehensive Web Development Guide"
+      },
+      {
+        "title": "The Odin Project",
+        "link": "https://www.theodinproject.com/",
+        "text": "The Odin Project - Free Coding Curriculum"
+      },
+      {
+        "title": "Awesome Selfhosted",
+        "link": "https://github.com/awesome-selfhosted/awesome-selfhosted",
+        "text": "Awesome Selfhosted - Open Source Projects Collection"
+      },
+      {
+        "title": "FreeCodeCamp",
+        "link": "https://www.freecodecamp.org/",
+        "text": "FreeCodeCamp - Free Online Coding Courses"
+      }
+    ]
+  },
+  {
+    "username": "pixelcrafter-ath",
+    "name": "Atharva Randive",
+    "contacts": [
+      {
+        "icon": "fab fa-github",
+        "link": "https://www.github.com/PixelCrafter-ath",
+        "handle": "PixelCrafter-ath"
+      }
+    ],
+    "about": "An aspiring developer exploring open source and web development.",
+    "resources": [
+      {
+        "title": "MDN Web Docs",
+        "link": "https://developer.mozilla.org",
+        "text": "MDN Web Docs"
+      },
+      {
+        "title": "GitHub Guides",
+        "link": "https://github.com",
+        "text": "GitHub Guides"
+      },
+      {
+        "title": "W3Schools",
+        "link": "https://w3schools.com",
+        "text": "W3Schools"
+      }
+    ]
+  },
+  {
+    "username": "abdullahalmsaodi",
+    "name": "Abdullah Almsaodi",
+    "contacts": [
+      {
+        "icon": "fab fa-github",
+        "link": "https://www.github.com/abdullahalmsaodi",
+        "handle": "abdullahalmsaodi"
+      },
+      {
+        "icon": "fa-brands fa-linktree",
+        "link": "https://linktr.ee/abdullahalmsaodi",
+        "handle": "abdullahalmsaodi"
+      }
+    ],
+    "about": "Software Engineer • Integration Engineer • React.js • API & Automation Enthusiast..",
+    "resources": [
+      {
+        "title": "First Resource",
+        "link": "https://goodfirstissue.dev/",
+        "text": "Good First Issue: Make your first open-source contribution"
+      },
+      {
+        "title": "Second Resource",
+        "link": "https://component.gallery/",
+        "text": "The Component Gallery: 60 components,\n95 design systems,\n2,671 examples"
+      },
+      {
+        "title": "Third Resource",
+        "link": "https://www.deeplearning.ai/",
+        "text": "Deeplearning.ai: Join over 7 million people learning\nhow to use and build AI"
+      }
+    ]
+  },
+  {
+    "username": "thrilokmanjunath",
+    "name": "Thrilok Manjunath",
+    "contacts": [
+      {
+        "icon": "fab fa-github",
+        "link": "https://github.com/thrilokmanjunath",
+        "handle": "thrilokmanjunath"
+      },
+      {
+        "icon": "fab fa-linkedin",
+        "link": "https://www.linkedin.com/in/thrilokmanjunath",
+        "handle": "LinkedIn"
+      }
+    ],
+    "about": "MSc Data Science student building AI/ML systems, generative AI applications, and full-stack engineering platforms.",
+    "resources": [
+      {
+        "title": "MDN Web Docs",
+        "link": "https://developer.mozilla.org",
+        "text": "MDN Web Docs"
+      },
+      {
+        "title": "PyTorch Documentation",
+        "link": "https://pytorch.org/docs",
+        "text": "PyTorch Documentation"
+      },
+      {
+        "title": "FastAPI Documentation",
+        "link": "https://fastapi.tiangolo.com",
+        "text": "FastAPI Documentation"
+      }
+    ]
+  },
+  {
+    "username": "ferminriv20",
+    "name": "Fermín Rivero",
+    "contacts": [
+      {
+        "icon": "fab fa-github",
+        "link": "https://github.com/ferminriv20",
+        "handle": "GitHub"
+      },
+      {
+        "icon": "fab fa-instagram",
+        "link": "https://www.instagram.com/fermin_riv/",
+        "handle": "Instagram"
+      },
+      {
+        "icon": "fab fa-linkedin",
+        "link": "https://www.linkedin.com/in/ferminrivero/",
+        "handle": "LinkedIn"
+      }
+    ],
+    "about": "I’m an aspiring computational scientist interested in computer vision and image analysis.",
+    "resources": [
+      {
+        "title": "streamlit",
+        "link": "https://streamlit.io/",
+        "text": "streamlit"
+      },
+      {
+        "title": "tensorflow",
+        "link": "https://www.tensorflow.org/",
+        "text": "tensorflow"
+      },
+      {
+        "title": "pytorch",
+        "link": "https://pytorch.org/",
+        "text": "pytorch"
+      }
+    ]
+  }
+]
