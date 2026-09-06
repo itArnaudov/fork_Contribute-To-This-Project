@@ -240,5 +240,34 @@
         "text": "Vue.js"
       }
     ]
+  },
+  {
+    "username": "jawadnoori1718",
+    "name": "Jawad Noori",
+    "contacts": [
+      {
+        "icon": "fab fa-github",
+        "link": "https://www.github.com/Jawadnoori1718",
+        "handle": "Jawadnoori1718"
+      }
+    ],
+    "about": "Computer Science student interested in software engineering and artificial intelligence.",
+    "resources": [
+      {
+        "title": "MDN Web Docs",
+        "link": "https://developer.mozilla.org",
+        "text": "MDN Web Docs"
+      },
+      {
+        "title": "GitHub Documentation",
+        "link": "https://docs.github.com",
+        "text": "GitHub Docs"
+      },
+      {
+        "title": "Free Coding Tutorials",
+        "link": "https://www.freecodecamp.org",
+        "text": "freeCodeCamp"
+      }
+    ]
   }
 ]
