@@ -1,3 +1,11 @@
+> ⚠️ **This translation is outdated.** It describes an old workflow that no longer works. Please follow the [English README](../../README.md) for the current step-by-step tutorial.
+
+---
+
+> **Note:** The contribution tutorial has been updated. Please follow the [main README](https://github.com/Syknapse/Contribute-To-This-Project#readme) for the current instructions — it is the authoritative guide regardless of language.
+
+---
+
 # [Contribute To This Project](https://syknapse.github.io/Contribute-To-This-Project/)
 
 ![image info](/favicon.png)
@@ -78,13 +86,13 @@ HTML 파일 내부에 카드 템플릿의 복사본을 만들고 본인의 정�
 
 ### 번역
 
-이 튜토리얼은 [다른 언어](/translations/README.md)로도 제공됩니다. 
+이 튜토리얼은 [다른 언어](/translations/README.md)로도 제공됩니다.
 
-|     [Arabic](/translations/README/ARABIC.md)     |  [Bangla](/translations/README/BANGLA.md)  | [Chinese (Traditional)](/translations/README/CHINESE_TRADITIONAL.md) |            [English](/README.md)             |  [French](/translations/README/FRENCH.md)  
-| :---------------------------------------------: | :---------------------------------------: | :-----------------------------------------: | :---------------------------------------: | :---------------------------------------: |
-|  [German](/translations/README/GERMAN.md)  |      [Hindi](/translations/README/HINDI.md)      | [Italian](/translations/README/ITALIAN.md) | [Japanese](/translations/README/JAPANESE.md) |  [Korean](/translations/README/KOREAN.md)  |
-  [Polish](/translations/README/POLISH.md)  | [Portuguese](/translations/README/PORTUGUESE.md) | [Russian](/translations/README/RUSSIAN.md) |  [Serbian](/translations/README/SERBIAN.md)  | [Spanish](/translations/README/SPANISH.md) |
-   [Turkish](/translations/README/TURKISH.md) | [Ukrainian](/translations/README/UKRAINIAN.md) |
+|  [Arabic](/translations/README/ARABIC.md)  |     [Bangla](/translations/README/BANGLA.md)     | [Chinese (Traditional)](/translations/README/CHINESE_TRADITIONAL.md) |            [English](/README.md)             |  [French](/translations/README/FRENCH.md)  |
+| :----------------------------------------: | :----------------------------------------------: | :------------------------------------------------------------------: | :------------------------------------------: | :----------------------------------------: |
+|  [German](/translations/README/GERMAN.md)  |      [Hindi](/translations/README/HINDI.md)      |              [Italian](/translations/README/ITALIAN.md)              | [Japanese](/translations/README/JAPANESE.md) |  [Korean](/translations/README/KOREAN.md)  |
+|  [Polish](/translations/README/POLISH.md)  | [Portuguese](/translations/README/PORTUGUESE.md) |              [Russian](/translations/README/RUSSIAN.md)              |  [Serbian](/translations/README/SERBIAN.md)  | [Spanish](/translations/README/SPANISH.md) |
+| [Turkish](/translations/README/TURKISH.md) |  [Ukrainian](/translations/README/UKRAINIAN.md)  |
 
 > 프로젝트 문서 번역을 하고 싶다면 환영입니다. [`번역 가이드`](/translations/README.md)를 읽고 기여해주세요.
 
@@ -121,7 +129,7 @@ _예상 소요 시간: 30분 미만_.
 - 자신이 저장소의 [메인 페이지](https://github.com/Syknapse/Contribute-To-This-Project 'https://github.com/Syknapse/Contribute-To-This-Project')에 있는지 확인하세요.
 
 | ![Fork](/readme-only/fork.png "click on 'Fork'") |
-| :---------------------------------------------: |
+| :----------------------------------------------: |
 |         **_Fork_ button을 클릭하세요.**          |
 
 - 이제 여러분의 계정에 프로젝트 사본 복사가 완료되었습니다.
@@ -135,19 +143,19 @@ _예상 소요 시간: 30분 미만_.
 - 이제 프로젝트의 로컬 복사본이 필요합니다. 로컬 복사본이란 여러분의 컴퓨터에 저장된 프로젝트의 복사본을 의미합니다.
 - GitHub 데스크탑 앱을 열고 다음 작업을 수행하세요:
 
-| ![Clone](/readme-only/clone.PNG 'click clone repository') |
-| :------------------------------------------------------: |
-|       **_File_ 버튼을 클릭 후 _Clone repository_ 를 클릭하세요.**        |
+|  ![Clone](/readme-only/clone.PNG 'click clone repository')  |
+| :---------------------------------------------------------: |
+| **_File_ 버튼을 클릭 후 _Clone repository_ 를 클릭하세요.** |
 
 - GitHub에서 자신의 프로젝트와 포크 목록을 볼 수 있을겁니다.
 - `<your-github-username>/Contribute-To-This-Project`를 선택하세요.
 - _Clone_ 버튼을 클릭하세요.
 
 | ![Clone project](/readme-only/clone-project.PNG 'click on =your-github-username=/Contribute-To-This-Project') |
-| :----------------------------------------------------------------------------------------------------------: |
+| :-----------------------------------------------------------------------------------------------------------: |
 
 | :arrow_right_hook: 포크된 프로젝트는 왼쪽에 포크 아이콘이 있을 것입니다. 자신의 포크는 자신의 GitHub 사용자명이 표시됩니다. | ![your fork](/readme-only/clone-your-fork.PNG 'your fork will look like this, with your own user name') |
-| :------------------------------------------------------------------------------------------------------------------ | :----------------------------------------------------------------------------------------------------: |
+| :-------------------------------------------------------------------------------------------------------------------------- | :-----------------------------------------------------------------------------------------------------: |
 
 - 프로젝트가 하드디스크로 복사되는데 시간이 소요됩니다. 일반적으로 `..\Documents\GitHub`를 기본 경로로 설정하는 것을 추천드립니다.
 - 이제 프로젝트의 로컬 복사본이 생성되었습니다.
@@ -161,10 +169,10 @@ _예상 소요 시간: 30분 미만_.
 - 저장소가 복제되고 GitHub 데스크탑에서 열리면 새로운 브랜치를 생성할 차례입니다.
 - 브랜치는 수정 사항을 `Master`라는 프로젝트의 주요 부분과 분리하는 수단입니다. 예를 들어 잘못된 수정을 통해 원하지 않은 결과를 얻게되더라도 간단히 브랜치 삭제를 통해 메인 프로젝트에 영향을 끼치지않게 할 수 있습니다.
 
-| :arrow_right_hook: _`Current branch`_ 를 클릭한 후, _`New`_ 를 클릭하세요. | ![Create branch](/readme-only/branch-new.PNG "Click on 'Branch', then 'New'") |
-| :---------------------------------------------------------------------------- | :-----------------------------------------------------------------------------------------------------------------: |
+| :arrow*right_hook: *`Current branch`_ 를 클릭한 후, _`New`\_ 를 클릭하세요.   |                    ![Create branch](/readme-only/branch-new.PNG "Click on 'Branch', then 'New'")                     |
+| :---------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------: |
 | :arrow_right_hook: **브랜치 이름을 지정한 후, `Create branch`를 클릭하세요.** |                           ![Name branch](/readme-only/branch-name.PNG 'Name your branch')                            |
-| :arrow_right_hook: **생성된 브랜치를 Github에 게시.**                      | ![Name branch](/readme-only/branch-publish.PNG 'Click publish to send the new branch to your remote repo on GitHub') |
+| :arrow_right_hook: **생성된 브랜치를 Github에 게시.**                         | ![Name branch](/readme-only/branch-publish.PNG 'Click publish to send the new branch to your remote repo on GitHub') |
 
 - 브랜치 이름을 마음대로 지정할 수 있지만, 이 브랜치는 본인의 이름이 입력된 카드를 프로젝트에 추가하기 위한 브랜치이므로 브랜치의 의도를 잘 나타낼 수 있는 `your-name-card`(본인 이름)로 지정하는 것이 좋습니다.
 - 이제 마스터와 분리된 새로운 브랜치를 생성했습니다.
@@ -176,15 +184,15 @@ _예상 소요 시간: 30분 미만_.
 
 ---
 
-#### 4단계: 메인 index.html 파일 열기 
+#### 4단계: 메인 index.html 파일 열기
 
 - 이제 선호하는 코드 에디터에서 편집할 파일을 열어야 합니다.
 - 컴퓨터에서 프로젝트 폴더를 찾으세요. 기본 값으로 설정했다면 다음과 같은 경로에서 프로젝트 폴더를 찾을 수 있습니다. `your-computer > Documents > GitHub > Contribute-To-This-Project`
 - `index.html` 파일은 `Contribute-To-This-Project` 폴더에서 찾을 수 있습니다.
 - 코드 에디터(Sublime, VS Code, Atom..등)를 사용해 `Open file` 명령으로 프로젝트의 메인 디렉토리에서 index.html 파일을 찾습니다.
 
-|                  ![Open index file](/readme-only/index-open.PNG 'Open index.html in your text editor')                   |
-| :---------------------------------------------------------------------------------------------------------------------: |
+|        ![Open index file](/readme-only/index-open.PNG 'Open index.html in your text editor')         |
+| :--------------------------------------------------------------------------------------------------: |
 | :arrow_right_hook: **하드 디스크에 저장된 파일을 우클릭해 직접 코드 에디터로 여는 방법도 있습니다.** |
 
 - 코드 에디터에서 편집할 파일을 열었으니 내용을 변경할 준비가 완료되었습니다.
@@ -200,14 +208,14 @@ _예상 소요 시간: 30분 미만_.
 - 아래 이미지에 빨간색으로 표시된 사각형 내부의 `Contributor card START` 부터 `Contributor card END` 주석 사이의 모든 코드를 복사하세요.
 
 | ![Copy card template](/readme-only/card-copy.PNG 'Copy the card template') |
-| :-----------------------------------------------------------------------: |
+| :------------------------------------------------------------------------: |
 
 - 복사한 코드를 주석 바로 아래에 붙여넣으세요.
 - 카드의 시작 부분과 마지막 끝 부분 사이에 공백 한 줄이 있는지 확인하세요. 코드를 가능한 명확하게 유지하는 것이 좋습니다.
 - 린터나 스타일 포매터를 사용하지마세요. 프로젝트에 Prettier 설정이 있습니다.
 
 | ![Paste card template](/readme-only/card-paste.PNG 'Paste below the indicated line') |
-| :---------------------------------------------------------------------------------: |
+| :----------------------------------------------------------------------------------: |
 
 - 이제 카드를 **본인**의 정보로 변경하고 편집할 차례입니다.
 
@@ -220,19 +228,19 @@ _예상 소요 시간: 30분 미만_.
 - 이제 html 편집을 시작합니다. 카드에서 수정해야 될 필드의 내용을 변경합니다.
 
 | :arrow_right_hook: 'Name'을 자신의 이름으로 변경합니다 | ![Change name](/readme-only/change-name.PNG 'Type your name') |
-| :----------------------------------------------- | :----------------------------------------------------------: |
+| :----------------------------------------------------- | :-----------------------------------------------------------: |
 
 - **참고: `class="name"`은 수정하지마세요.**
 
 | :arrow_right_hook: `href="Insert URL here"`에 트위터 계정 URL을 입력하고, 텍스트 필드에 트위터 계정 이름(핸들)을 입력합니다 | ![Change contact](/readme-only/change-contact.PNG 'Insert a link to your Twitter account and type your handle') |
-| :--------------------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------: |
+| :-------------------------------------------------------------------------------------------------------------------------- | :-------------------------------------------------------------------------------------------------------------: |
 
 - 트위터가 아닌 다른 연락처를 사용하려면 [Font Awesome Icons](http://fontawesome.io/icons/)에서 연락처에 알맞는 아이콘을 찾아 `<i class="fa fa-x-twitter"></i>` 에서 `fa-x-twitter` 부분을 수정하면 됩니다. 예를 들어 페이스북 아이콘을 사용하려면 `fa-facebook`을 대신 사용하면됩니다.
 
-|                                                                                                                                         ![Change about](/readme-only/change-about.PNG 'Write a sentence about you')                                                                                                                                          |
-| :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-|                                                                                                               :arrow_right_hook: **여러분의 소개를 간단히 해주세요, 블로그 게시물처럼 길고 자세한 설명보단 트윗처럼 짧고 간결하게 작성해주세요.**                                                                                                                |
-|                                                                                                              ![Change resources](/readme-only/change-resources.PNG 'Insert link, write a short description, and type the name of the resource')                                                                                                              |
+|                                                                                              ![Change about](/readme-only/change-about.PNG 'Write a sentence about you')                                                                                              |
+| :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+|                                                                  :arrow_right_hook: **여러분의 소개를 간단히 해주세요, 블로그 게시물처럼 길고 자세한 설명보단 트윗처럼 짧고 간결하게 작성해주세요.**                                                                  |
+|                                                                  ![Change resources](/readme-only/change-resources.PNG 'Insert link, write a short description, and type the name of the resource')                                                                   |
 | :arrow_right_hook: **웹 개발과 관련해 유용한 리소스가 있는 커뮤니티의 링크 3개를 공유하세요. 영상, 강연, 팟캐스트, 기사, 참고 자료 무엇이든 좋습니다. 만약 여러분이 입문자라도 부담 갖지 말고 아는 것 무엇이든 공유하세요. 많은 사람들이 도움을 받을 수 있을겁니다.** |
 
 - **링크:** `href="여기"`에 있는 `#` 부분에 링크를 삽입하세요. URL 링크단축 서비스나 해당 사이트가 아닌 URL을 사용하지 말아주세요!
@@ -253,13 +261,13 @@ _예상 소요 시간: 30분 미만_.
 - 이건 Git에 의해 모든 변경 사항이 **저장 되었음**을 의미합니다.
 - 변경 사항이 앱에 반영된 것을 확인할 수 있습니다. 파일에 추가된 부분은 녹색으로 표시되며 삭제된 항목은 빨간색으로 표시됩니다.
 
-|                                                                                                  ![Commit changes](/readme-only/commit.PNG "The changes you've added should appear in green on the right side of GitHub desktop app. The commit button is on the bottom left")                                                                                                  |
-| :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| :arrow_right_hook: 다음 단계는 _`Commit`_ 입니다. 간단히 말해 `변경 사항 확인` 정도로 설명할 수 있습니다. |
-|                                                                                              ![Commit changes](/readme-only/commit-header.PNG "The changes you've added should appear in green on the right side of GitHub desktop app. The commit button is on the bottom left")                                                                                               |
-|                                                                            :arrow_right_hook: **GitHub 데스크탑 헤더는 다음과 같아야 합니다. `Current repository`에서 프로젝트 이름 옆 fork 아이콘을 확인하세요, `Current branch` 에는 3단계에서 지정한 이름이 표시됩니다.**                                                                            |
-|                                                                                                                  ![Write commit message and commit](/readme-only/commit-message.PNG "Write a brief commit message in the 'summary' input, and click 'commit'")                                                                                                                  |
-| :arrow_right_hook: **_`Commit`_ 위해선 _`Summary`_ 필드를 작성해야합니다. 이 필드는 여러분이 무엇을 변경했는지를 설명하는 commit 메시지입니다. 이 경우 `"Add my card information"`이 적당한 메세지가 될 것입니다. 추가로 더 자세한 설명이 담긴 _`Description`_ 을 입력할 수 있습니다. _`Commit`_ 버튼을 클릭하세요. 버튼에 `Commit to "your-branch-name"`를 확인할 수 있을 것입니다.** |
+|                                                                                                         ![Commit changes](/readme-only/commit.PNG "The changes you've added should appear in green on the right side of GitHub desktop app. The commit button is on the bottom left")                                                                                                          |
+| :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+|                                                                                                                                           :arrow*right_hook: 다음 단계는 *`Commit`\_ 입니다. 간단히 말해 `변경 사항 확인` 정도로 설명할 수 있습니다.                                                                                                                                           |
+|                                                                                                      ![Commit changes](/readme-only/commit-header.PNG "The changes you've added should appear in green on the right side of GitHub desktop app. The commit button is on the bottom left")                                                                                                      |
+|                                                                                               :arrow_right_hook: **GitHub 데스크탑 헤더는 다음과 같아야 합니다. `Current repository`에서 프로젝트 이름 옆 fork 아이콘을 확인하세요, `Current branch` 에는 3단계에서 지정한 이름이 표시됩니다.**                                                                                                |
+|                                                                                                                         ![Write commit message and commit](/readme-only/commit-message.PNG "Write a brief commit message in the 'summary' input, and click 'commit'")                                                                                                                          |
+| :arrow\*right*hook: \*\*\*`Commit`* 위해선 _`Summary`_ 필드를 작성해야합니다. 이 필드는 여러분이 무엇을 변경했는지를 설명하는 commit 메시지입니다. 이 경우 `"Add my card information"`이 적당한 메세지가 될 것입니다. 추가로 더 자세한 설명이 담긴 _`Description`_ 을 입력할 수 있습니다. \_`Commit`\_ 버튼을 클릭하세요. 버튼에 `Commit to "your-branch-name"`를 확인할 수 있을 것입니다.\*\* |
 
 [↑ 위로 ↑](#빠른-액세스-인덱스)
 
@@ -270,8 +278,8 @@ _예상 소요 시간: 30분 미만_.
 - 이제 변경된 내용들이 저장되고 commit되었습니다. 그러나 변경 사항들은 여러분의 로컬 컴퓨터에만 저장된 것입니다.
 - GitHub의 저장소와 로컬 변경 사항을 동기화하는 것을 _Push_ 라고 합니다. _Push_ 를 통해 로컬 컴퓨터 저장소의 변경 사항들을 GitHub의 저장소로 "pushing"합니다.
 
-| :arrow_right_hook: _`Push`_ 을 클릭하세요. | ![Push to GitHub](/readme-only/push.PNG "Push your changes to GitHub, click on the 'Push' button") |
-| :------------------------------------------- | :-----------------------------------------------------------------------------------------------: |
+| :arrow*right_hook: *`Push`\_ 을 클릭하세요. | ![Push to GitHub](/readme-only/push.PNG "Push your changes to GitHub, click on the 'Push' button") |
+| :------------------------------------------ | :------------------------------------------------------------------------------------------------: |
 
 - 몇 초 후에 작업이 완료되고 GitHub에 여러분의 컴퓨터의 브랜치 복사본과 정확히 일치하는 복사본이 존재하게 됩니다.
 
@@ -289,17 +297,17 @@ _예상 소요 시간: 30분 미만_.
 - 저장소 상단에서 pull request 메시지가 적혀진 녹색 버튼이 있습니다.
 
 |  ![Submit a Pull Request](/readme-only/pull-request.PNG 'This is usually towards the top of the page, under the description and above the project files and folders')  |
-| :-------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| :--------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 |                                                    :arrow_right_hook: **`Compare and pull request`를 클릭하세요.**                                                     |
 | ![Open a Pull Request](/readme-only/pull-request-branches.PNG 'You are requesting to merge your branch from your fork into the master branch of the original project') |
-|                                              :arrow_right_hook: `Open a pull request` 페이지입니다.                                               |
+|                                                         :arrow_right_hook: `Open a pull request` 페이지입니다.                                                         |
 
 - 중요: _우리는 지금 여러분의 브랜치의 fork를 Master 브랜치가 아닌 기존 프로젝트와 병합하려고 시도하고 있다는 것을 꼭 기억하세요_.
 - 아래 이미지는 pull request의 헤더가 어떻게 구성되는지를 보여주고 있습니다.
 - 가장 왼쪽 드롭박스에는 기존의 프로젝트가 있으며, 다음은 master 브랜치, 이어서 생성한 fork와 브랜치가 있습니다.
 
-|                   ![Submit a Pull Request](/readme-only/pull-request-open.PNG "Click the green button. Don't be scared!")                    |
-| :-----------------------------------------------------------------------------------------------------------------------------------------: |
+|             ![Submit a Pull Request](/readme-only/pull-request-open.PNG "Click the green button. Don't be scared!")             |
+| :-----------------------------------------------------------------------------------------------------------------------------: |
 | :arrow_right_hook: **Pull request 생성하기: 제목 작성 후, 설명에 추가적인 설명을 작성하고 `Create pull request`를 클릭하세요.** |
 
 - 다른 많은 옵션들에 당황하지마세요. 여러분은 이 세 단계만 실시하시면 됩니다.

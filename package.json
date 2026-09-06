@@ -1,13 +1,20 @@
 {
   "devDependencies": {
-    "prettier": "^1.18.2"
+    "html-validate": "^10.9.0",
+    "husky": "^9.1.7",
+    "lint-staged": "^16.4.0",
+    "prettier": "^3.8.1"
   },
   "scripts": {
     "prettier-html": "npx prettier --write index.html",
-    "archive_cards": "node archive/archive_cards_script.js",
-    "clean": "node archive/clean.js"
+    "format": "git diff --name-only HEAD | xargs npx prettier --write --ignore-unknown",
+    "prepare": "husky"
   },
   "dependencies": {
-    "cheerio": "^1.0.0-rc.12"
+    "cheerio": "^1.2.0"
+  },
+  "lint-staged": {
+    "*.{js,yml,yaml,json}": "prettier --write",
+    "*.html": "prettier --write --ignore-path .prettierignore"
   }
 }

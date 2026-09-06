@@ -1,0 +1,98 @@
+name: Continuous Integration
+on:
+  push:
+    branches: [master]
+  pull_request:
+    branches: [master]
+jobs:
+  prettier:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v6
+        with:
+          fetch-depth: 0
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v6
+        with:
+          node-version: 'lts/*'
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Get changed files
+        id: changed-files
+        uses: tj-actions/changed-files@v47
+
+      - name: Check formatting with Prettier
+        if: steps.changed-files.outputs.any_changed == 'true'
+        run: |
+          # cards/*.html and archive files are excluded via .prettierignore
+          # --ignore-unknown skips files Prettier has no parser for (extensionless files, etc.)
+          npx prettier --check --ignore-unknown --ignore-path .prettierignore ${{ steps.changed-files.outputs.all_changed_files }}
+
+  html-validation:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v6
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v6
+        with:
+          node-version: 'lts/*'
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Get changed HTML files
+        id: changed-files
+        uses: tj-actions/changed-files@v47
+        with:
+          files: |
+            **/*.html
+
+      - name: Validate HTML files
+        if: steps.changed-files.outputs.any_changed == 'true'
+        run: |
+          echo "Validating HTML files..."
+          echo "Changed files: ${{ steps.changed-files.outputs.all_changed_files }}"
+          npx html-validate ${{ steps.changed-files.outputs.all_changed_files }}
+        continue-on-error: false
+
+      - name: Validate index.html (always run on master)
+        if: github.ref == 'refs/heads/master' && steps.changed-files.outputs.any_changed != 'true'
+        run: |
+          echo "Validating index.html on master branch..."
+          npx html-validate index.html
+
+  archive-integrity:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v6
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v6
+        with:
+          node-version: 'lts/*'
+
+      - name: Verify manifest totalArchivedCards matches archive files
+        run: |
+          node -e "
+            const fs = require('fs'), path = require('path')
+            const manifest = JSON.parse(fs.readFileSync('archive/manifest.json', 'utf-8'))
+            let actual = 0
+            for (const f of manifest.files) {
+              actual += JSON.parse(fs.readFileSync(path.join('archive/json', f), 'utf-8')).length
+            }
+            if (actual !== manifest.totalArchivedCards) {
+              console.error('archive/manifest.json is out of sync:')
+              console.error('  totalArchivedCards = ' + manifest.totalArchivedCards)
+              console.error('  actual count       = ' + actual)
+              console.error('Do not edit archive files manually. Use the Remove Card workflow.')
+              process.exit(1)
+            }
+            console.log('✅ manifest.json is consistent: ' + actual + ' cards across ' + manifest.files.length + ' files')
+          "
